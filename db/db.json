@@ -1,6 +1,9 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "groceries",
+      "text": "apples\nbananas\nmilk\neggs",
+      "id": "0"
     }
-]
+  ]
+}
